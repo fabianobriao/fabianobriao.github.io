@@ -82,13 +82,11 @@
     font-size: 30px;
 }
 
-#email-container1 {
-    flex: 1 1 1;
-    max-width: 75%;
+#email-container1 a {
+    flex: 1 1 25%;
+    max-width: 25%;
     flex-wrap: wrap;
-    margin-bottom: 35px;
-    display: flex;
-    justify-content: left;
+    margin-right: 55px;
 }
 
 #email-container {
