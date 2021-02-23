@@ -82,6 +82,11 @@
     font-size: 30px;
 }
 
+#email-container1 {
+    display: flex;
+    justify-content: left;
+}
+
 #email-container {
     display: flex;
     justify-content: center;
