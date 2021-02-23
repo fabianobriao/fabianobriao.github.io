@@ -84,12 +84,12 @@
 
 #email-containera {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 #email-container {
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 
 #email-container ion-icon,
