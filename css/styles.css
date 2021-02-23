@@ -142,6 +142,7 @@
     width: 150px;
     text-align: center;
     display: flex;
+    max-width: 90%;
 }
 
 #btn-projects ion-icon,
