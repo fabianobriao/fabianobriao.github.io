@@ -85,6 +85,8 @@
 #email-container1 {
     flex: 1 1 1;
     max-width: 75%;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
     display: flex;
     justify-content: left;
 }
