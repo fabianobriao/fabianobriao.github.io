@@ -83,6 +83,7 @@
 }
 
 #email-container1 {
+    flex: 1 1 0;
     display: flex;
     justify-content: left;
 }
