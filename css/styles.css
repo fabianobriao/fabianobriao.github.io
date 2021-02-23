@@ -84,8 +84,9 @@
 
 #email-containera {
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
+
 #email-container {
     display: flex;
     justify-content: center;
