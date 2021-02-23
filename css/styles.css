@@ -82,13 +82,10 @@
     font-size: 30px;
 }
 
-#email-container1 a {
-    flex: 1 1 25%;
-    max-width: 25%;
-    flex-wrap: wrap;
-    margin-right: 55px;
+#email-containera {
+    display: flex;
+    justify-content: left;
 }
-
 #email-container {
     display: flex;
     justify-content: center;
@@ -110,6 +107,7 @@
     font-size: 20px;
     margin-right: 5px;
     max-width: 20px;
+    display: center;
 }
 
 /* about container */
@@ -138,7 +136,7 @@
     border-radius: 5px;
     text-decoration: none;
     transition: .5s;
-    margin: 25px 0;
+    margin: 25px 10px;
     padding: 12px 10px;
     width: 150px;
     text-align: center;
